@@ -23,3 +23,4 @@ https://papers.vx-underground.org/papers/Other/VXUG%20Zines/About%20malware%20wr
 https://www.vergiliusproject.com/
 https://ia903206.us.archive.org/26/items/car-hackers-handbook-the-craig-smith/The%20Car%20Hacker%27s%20Handbook%20-%20Craig%20Smith.pdf
 https://andreafortuna.org/2017/10/18/windows-registry-in-forensic-analysis/
+https://www.bordergate.co.uk/category/malware-dev/

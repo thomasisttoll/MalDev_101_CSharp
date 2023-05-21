@@ -1,0 +1,8 @@
+C:\Users\Thomas\Desktop\SimpleWinlogonAutostart\SimpleWinlogonAutostart\bin\Debug\SimpleWinlogonAutostart.exe.config
+C:\Users\Thomas\Desktop\SimpleWinlogonAutostart\SimpleWinlogonAutostart\bin\Debug\SimpleWinlogonAutostart.exe
+C:\Users\Thomas\Desktop\SimpleWinlogonAutostart\SimpleWinlogonAutostart\bin\Debug\SimpleWinlogonAutostart.pdb
+C:\Users\Thomas\Desktop\SimpleWinlogonAutostart\SimpleWinlogonAutostart\obj\Debug\SimpleWinlogonAutostart.csproj.AssemblyReference.cache
+C:\Users\Thomas\Desktop\SimpleWinlogonAutostart\SimpleWinlogonAutostart\obj\Debug\SimpleWinlogonAutostart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thomas\Desktop\SimpleWinlogonAutostart\SimpleWinlogonAutostart\obj\Debug\SimpleWinlogonAutostart.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\SimpleWinlogonAutostart\SimpleWinlogonAutostart\obj\Debug\SimpleWinlogonAutostart.exe
+C:\Users\Thomas\Desktop\SimpleWinlogonAutostart\SimpleWinlogonAutostart\obj\Debug\SimpleWinlogonAutostart.pdb

@@ -1,0 +1,16 @@
+C:\Users\Thomas\Desktop\QuackStart\QuackStart\bin\Debug\QuackStart.exe.config
+C:\Users\Thomas\Desktop\QuackStart\QuackStart\bin\Debug\QuackStart.exe
+C:\Users\Thomas\Desktop\QuackStart\QuackStart\bin\Debug\QuackStart.pdb
+C:\Users\Thomas\Desktop\QuackStart\QuackStart\obj\Debug\QuackStart.csproj.AssemblyReference.cache
+C:\Users\Thomas\Desktop\QuackStart\QuackStart\obj\Debug\QuackStart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thomas\Desktop\QuackStart\QuackStart\obj\Debug\QuackStart.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\QuackStart\QuackStart\obj\Debug\QuackStart.exe
+C:\Users\Thomas\Desktop\QuackStart\QuackStart\obj\Debug\QuackStart.pdb
+C:\Users\Thomas\Desktop\MalDev101 C#\QuackStart\QuackStart\bin\Debug\QuackStart.exe.config
+C:\Users\Thomas\Desktop\MalDev101 C#\QuackStart\QuackStart\bin\Debug\QuackStart.exe
+C:\Users\Thomas\Desktop\MalDev101 C#\QuackStart\QuackStart\bin\Debug\QuackStart.pdb
+C:\Users\Thomas\Desktop\MalDev101 C#\QuackStart\QuackStart\obj\Debug\QuackStart.csproj.AssemblyReference.cache
+C:\Users\Thomas\Desktop\MalDev101 C#\QuackStart\QuackStart\obj\Debug\QuackStart.csproj.SuggestedBindingRedirects.cache
+C:\Users\Thomas\Desktop\MalDev101 C#\QuackStart\QuackStart\obj\Debug\QuackStart.csproj.CoreCompileInputs.cache
+C:\Users\Thomas\Desktop\MalDev101 C#\QuackStart\QuackStart\obj\Debug\QuackStart.exe
+C:\Users\Thomas\Desktop\MalDev101 C#\QuackStart\QuackStart\obj\Debug\QuackStart.pdb
